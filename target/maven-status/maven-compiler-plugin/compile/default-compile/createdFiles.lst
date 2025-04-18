@@ -1,8 +1,2 @@
-com\example\studentmanagement\DemoApplication.class
-com\example\studentmanagement\model\Student.class
-com\example\studentmanagement\exception\CloudVendorException.class
-com\example\studentmanagement\repository\StudentRepository.class
-com\example\studentmanagement\exception\CloudVendorNotFoundException.class
-com\example\studentmanagement\controller\StudentController.class
-com\example\studentmanagement\exception\CloudVendorExceptionHandler.class
-com\example\studentmanagement\service\StudentService.class
+com\example\ilovekrishna\ilivekrishna.class
+com\example\ilovekrishna\HelloController.class
